@@ -23,9 +23,11 @@ This project uses a AI to recognize human facial emotions from grayscale images.
    Images are resized to 48x48 grayscale and saved in 'fer2013.csv'
 
 2. **Train the model**
-   Run:
    ```bash
    python train_model.py
+
+3. **Run the application**
+   ```bash
    python real_time_detector.py
 
 
