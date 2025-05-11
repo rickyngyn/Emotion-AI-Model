@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Model file
+*.h5
+
+# Dataset folder
+data/
+
+# Bytecode and Python cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
